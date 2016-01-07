@@ -1,4 +1,4 @@
-require 'time'
+ nh        'time'
 
 module SyslogProto
   
